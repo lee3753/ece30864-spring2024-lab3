@@ -1,1 +1,2 @@
 1. Equivalent to a project manager or a key stakeholder. This role ensures that the final project meets the requirements and expectations of the stakeholders.
+2. The scrum master is in control and responsible for the scrum process. The Product owner makes sure that the stakeholders are satisfied and are in constant communication.
